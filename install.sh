@@ -97,7 +97,7 @@ HOME=~
 SOURCE_PATH=`pwd`
 
 declare -a SOURCE_FILES=(
-  /zshrc
+  /zshrc.zsh
 )
 
 declare -a DESTINATION_LINKS=(
